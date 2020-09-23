@@ -244,8 +244,8 @@ github.com/influxdata/influxdb1-client v0.0.0-20191209144304-8bf82d3c094d/go.mod
 github.com/jessevdk/go-flags v0.0.0-20141203071132-1679536dcc89/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
 github.com/jinmannwong/cosmos-consensus v0.5.2-0.20200922113122-cdaf53a08f4b h1:1ibx+ceIpu/f0jchmlbrHNrDie1R1kUfLqg7U1uFwdo=
 github.com/jinmannwong/cosmos-consensus v0.5.2-0.20200922113122-cdaf53a08f4b/go.mod h1:3uBzeHvXTweU0DE0ja1RmM/rxcf+tTajjRCfcF+DG3A=
-github.com/jinmannwong/cosmos-sdk v0.6.1-0.20200922163211-cf120244c0c3 h1:74UZ2I16XzLuY4dkLxxB6IwRPzOgtNULJdhWyFsPxRY=
-github.com/jinmannwong/cosmos-sdk v0.6.1-0.20200922163211-cf120244c0c3/go.mod h1:HVEJ7oQK/C4PngnnjOG+KuxZOZVesiI2z5k02khiILM=
+github.com/jinmannwong/cosmos-sdk v0.6.1-0.20200923093637-ef04c642cb55 h1:22hfhM+Q05jFQTb/e/in7+75dMoNcMe21AEYVSVtqkE=
+github.com/jinmannwong/cosmos-sdk v0.6.1-0.20200923093637-ef04c642cb55/go.mod h1:HVEJ7oQK/C4PngnnjOG+KuxZOZVesiI2z5k02khiILM=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/jmhodges/levigo v1.0.0 h1:q5EC36kV79HWeTBWsod3mG11EgStG3qArTKcvlksN1U=
 github.com/jmhodges/levigo v1.0.0/go.mod h1:Q6Qx+uH3RAqyK4rFQroq9RL7mdkABMcfhEI+nNuzMJQ=

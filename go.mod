@@ -30,6 +30,6 @@ require (
 replace github.com/keybase/go-keychain => github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4
 
 // this include a few extra debug helpers on top of cosmos v0.38.3 but original also works fine
-replace github.com/cosmos/cosmos-sdk => github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201008110302-f1756b58f739
+replace github.com/cosmos/cosmos-sdk => github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201008113034-4c48234bf230
 
-replace github.com/tendermint/tendermint => github.com/jinmannwong/cosmos-consensus v0.5.2-0.20201008105832-961a5b7f76d6
+replace github.com/tendermint/tendermint => github.com/jinmannwong/cosmos-consensus v0.9.1-0.20201008111511-cdded20162f9

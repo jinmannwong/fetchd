@@ -118,10 +118,6 @@ github.com/facebookgo/stack v0.0.0-20160209184415-751773369052/go.mod h1:UbMTZqL
 github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870 h1:E2s37DuLxFhQDg5gKsWoLBOB0n+ZW8s599zru8FJ2/Y=
 github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870/go.mod h1:5tD+neXqOorC30/tWg0LCSkrqj/AR6gu8yY8/fpw1q0=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
-github.com/fetchai/cosmos-consensus v0.9.0 h1:TtESXSG6f9JjuzQOvcSoG71Pv+TAIcK5S+wUc4QyiNc=
-github.com/fetchai/cosmos-consensus v0.9.0/go.mod h1:3uBzeHvXTweU0DE0ja1RmM/rxcf+tTajjRCfcF+DG3A=
-github.com/fetchai/cosmos-sdk v0.12.0 h1:gYlkXEJGzYGEbN8D5uNrZdsWoRdWiAjJ8c+565/KEaI=
-github.com/fetchai/cosmos-sdk v0.12.0/go.mod h1:rMoHSIoYd3a0MsLimeoKjShe4YALUd1ZDYZPe+nB38k=
 github.com/flynn/noise v0.0.0-20180327030543-2492fe189ae6 h1:u/UEqS66A5ckRmS4yNpjmVH56sVtS/RfclBAYocb4as=
 github.com/flynn/noise v0.0.0-20180327030543-2492fe189ae6/go.mod h1:1i71OnUq3iUe1ma7Lr6yG6/rjvM3emb6yoL7xLFzcVQ=
 github.com/fortytw2/leaktest v1.3.0 h1:u8491cBMTQ8ft8aeV+adlcytMZylmA5nnwwkRZjI8vw=
@@ -246,6 +242,10 @@ github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NH
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/influxdata/influxdb1-client v0.0.0-20191209144304-8bf82d3c094d/go.mod h1:qj24IKcXYK6Iy9ceXlo3Tc+vtHo9lIhSX5JddghvEPo=
 github.com/jessevdk/go-flags v0.0.0-20141203071132-1679536dcc89/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
+github.com/jinmannwong/cosmos-consensus v0.5.2-0.20201008105832-961a5b7f76d6 h1:Ey7dch+WQlTxiIeENZnBgbtVph6B+Lye5PruvtXJBXI=
+github.com/jinmannwong/cosmos-consensus v0.5.2-0.20201008105832-961a5b7f76d6/go.mod h1:3uBzeHvXTweU0DE0ja1RmM/rxcf+tTajjRCfcF+DG3A=
+github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201008110302-f1756b58f739 h1:ZQusToC6aO7hT5s2zC/gHGbXTUC2LLVtWhhjc07WDik=
+github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201008110302-f1756b58f739/go.mod h1:cWaR+jG4CNLWy2lkqth77Vdm7rOdTrUZ9SiVbCG7fdM=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/jmhodges/levigo v1.0.0 h1:q5EC36kV79HWeTBWsod3mG11EgStG3qArTKcvlksN1U=
 github.com/jmhodges/levigo v1.0.0/go.mod h1:Q6Qx+uH3RAqyK4rFQroq9RL7mdkABMcfhEI+nNuzMJQ=

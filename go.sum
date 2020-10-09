@@ -242,10 +242,10 @@ github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NH
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/influxdata/influxdb1-client v0.0.0-20191209144304-8bf82d3c094d/go.mod h1:qj24IKcXYK6Iy9ceXlo3Tc+vtHo9lIhSX5JddghvEPo=
 github.com/jessevdk/go-flags v0.0.0-20141203071132-1679536dcc89/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
-github.com/jinmannwong/cosmos-consensus v0.9.1-0.20201009093421-a9fbe4f6b2a2 h1:qI/Os15VHkWXn8Q4IEq/dRTRrdyxFvhk9zhFq4AoDPQ=
-github.com/jinmannwong/cosmos-consensus v0.9.1-0.20201009093421-a9fbe4f6b2a2/go.mod h1:3uBzeHvXTweU0DE0ja1RmM/rxcf+tTajjRCfcF+DG3A=
-github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201009093855-89bb4a74d510 h1:mXEgugreEPyZ302swrcxfG0onyNymaiD3WE4nFQb7Ts=
-github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201009093855-89bb4a74d510/go.mod h1:gnhDSgycqKKk+7pmTBELcXCpswuDuqa2Tagm7pP9ons=
+github.com/jinmannwong/cosmos-consensus v0.9.1-0.20201009102645-7c4947c153e9 h1:6U7DFDHSpxc6bQpkobvJSLvWB4mTUOYa7GrtSTEqITo=
+github.com/jinmannwong/cosmos-consensus v0.9.1-0.20201009102645-7c4947c153e9/go.mod h1:3uBzeHvXTweU0DE0ja1RmM/rxcf+tTajjRCfcF+DG3A=
+github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201009102804-4d662cd5f6f3 h1:sXvtyrmO9ixhQbI8l8oWFhDMyGkn3FpVA0EA9y8RSRo=
+github.com/jinmannwong/cosmos-sdk v0.12.1-0.20201009102804-4d662cd5f6f3/go.mod h1:VRqUOb1dhvjcQMdZHBxmuhaHXUpr3GdlNfUM93n1j64=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/jmhodges/levigo v1.0.0 h1:q5EC36kV79HWeTBWsod3mG11EgStG3qArTKcvlksN1U=
 github.com/jmhodges/levigo v1.0.0/go.mod h1:Q6Qx+uH3RAqyK4rFQroq9RL7mdkABMcfhEI+nNuzMJQ=
